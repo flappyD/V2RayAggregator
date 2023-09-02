@@ -523,7 +523,7 @@ class subs:
                                                                         else:
                                                                                                                                             bad_lines += 1
                                                                     else:
-                                                                                                                                        bad_lines += 1
+                                                                                                                                        safe_clash.append(cl_res)
                                                                 else:
                                                                     bad_lines += 1
 
