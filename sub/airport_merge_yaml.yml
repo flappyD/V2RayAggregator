@@ -1,1 +1,2 @@
 proxies:
+  - {'name': '🏁RELAY-172.67.146.218-00', 'server': 'chaoxi.cool', 'port': 2000, 'type': 'ssr', 'cipher': 'chacha20-ietf', 'password': 'cxssr911', 'protocol': 'auth_aes128_md5', 'obfs': 'http_simple', 'protocol-param': '72823:JRscSH1dAr3HRZYY', 'obfs-param': '9301d72823.microsoft.com'}
