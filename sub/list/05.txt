@@ -1,0 +1,2 @@
+  - {name: 1. 引导页：bit.ly/3robtQv, server: chaoxi.cool, port: 2000, type: ssr, cipher: chacha20-ietf, password: cxssr911, protocol: auth_aes128_md5, obfs: http_simple, protocol-param: 73338:GZYhBbndBw5TMFPv, obfs-param: 220f873338.microsoft.com}
+  - {name: 1. 引导页：bit.ly/3robtQv, server: chaoxi.cool, port: 2000, type: ssr, cipher: chacha20-ietf, password: cxssr911, protocol: auth_aes128_md5, obfs: http_simple, protocol-param: 73344:0TCSLVY3D5WvodyF, obfs-param: 2c6d473344.microsoft.com}
