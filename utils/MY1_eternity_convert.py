@@ -149,6 +149,101 @@ def eternity_convert(file, config, output, provider_file_enabled=True):
     config = yaml.safe_load(config_raw)
 
     all_provider_dic = {'proxies': []}
+#     others_provider_dic = {'proxies': []}
+#     us_provider_dic = {'proxies': []}
+#     hk_provider_dic = {'proxies': []}
+#     sg_provider_dic = {'proxies': []}
+    provider_dic = {
+        'all': all_provider_dic,
+        #         'others': others_provider_dic,
+        #         'us': us_provider_dic,
+        #         'hk': hk_provider_dic,
+        #         'sg': sg_provider_dic
+    }
+    for key in eternity_providers.keys():  # 将节点转换为字典形式
+        provider_load = yaml.safe_load(eternity_providers[key])
+        provider_dic[key].update(provider_load)
+
+    # 创建节点名列表
+    print('创建节点名列表\n')
+    all_name = []
+#     others_name = []
+#     us_name = []
+#     hk_name = []
+#     sg_name = []
+    name_dict = {
+        'all': all_name,
+        #         'others': others_name,
+        #         'us': us_name,
+        #         'hk': hk_name,
+        #         'sg': sg_name
+    }
+
+    indexx = 0
+    for key in provider_dic.keys():
+        if not provider_dic[key]['proxies'] is None:
+            for proxy in provider_dic[key]['proxies']:
+                try:
+                    speed = substrings(
+                        log_lines_without_bad_char[indexx], "avg_speed:", "|")
+                    name_dict[key].append(
+                        str(proxy['name']).replace(" ", "") + " | " + speed)
+                except:
+                    #         name_dict[key].append(str(proxy['name']).replace(" ", ""))
+                    #         print(log_lines_without_bad_char[indexx])
+
+                indexx += 1
+
+        if provider_dic[key]['proxies'] is None:
+            name_dict[key].append('DIRECT')
+    # 策略分组添加节点名
+    proxy_groups = config['proxy-groups']
+    proxy_group_fill = []
+    for rule in proxy_groups:
+        if rule['proxies'] is None:  # 不是空集加入待加入名称列表
+            proxy_group_fill.append(rule['name'])
+
+    full_size = all_name.__len__()
+    part_size = int(full_size / 4)
+    last_size = full_size - (part_size * 3)
+    for rule_name in proxy_group_fill:
+        for rule in proxy_groups:
+            if rule['name'] == rule_name:
+                #                 if '美国' in rule_name:
+                #                     rule.update({'proxies': us_name})
+                #                 elif '香港' in rule_name:
+                #                     rule.update({'proxies': hk_name})
+                #                 elif '狮城' in rule_name or '新加坡' in rule_name:
+                #                     rule.update({'proxies': sg_name})
+                #                 elif '其他' in rule_name:
+                #                     rule.update({'proxies': others_name})
+                #                 else:
+                # todo it changes from Main group to tier names
+                if "Tier 1" in rule_name:
+                    rule.update({'proxies': all_name[0:part_size]})
+                elif "Tier 2" in rule_name:
+                    rule.update({'proxies': all_name[part_size:part_size*2]})
+                elif "Tier 3" in rule_name:
+                    rule.update({'proxies': all_name[part_size*2:part_size*3]})
+                elif "Tier 4" in rule_name:
+                    rule.update({'proxies': all_name[part_size*3:full_size]})
+
+    config.update(all_provider_dic)
+    config.update({'proxy-groups': proxy_groups})
+    config.update({'proxies': proxy_all})
+
+    """
+    yaml_format = ruamel.yaml.YAML() # https://www.coder.work/article/4975478
+    yaml_format.indent(mapping=2, sequence=4, offset=2)
+    config_yaml = yaml_format.dump(config, sys.stdout)
+    """
+    config_yaml = yaml.dump(config, default_flow_style=False, sort_keys=False,
+                            allow_unicode=True, width=750, indent=2, Dumper=NoAliasDumper)
+
+    Eternity_yml = open(output, 'w+', encoding='utf-8')
+    Eternity_yml.write(config_yaml)
+    Eternity_yml.close()
+
 
 def backup(file):
     try:
@@ -173,8 +268,11 @@ def backup(file):
 
 
 if __name__ == '__main__':
+    print("sub_merge.geoip_update")
     sub_merge.geoip_update(
         'https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb')
+    print("eternity_convert")
     eternity_convert(Eterniy_file, config_file, output=Eternity_yml_file)
+    print("backup")
     backup(Eterniy_file)
     sub_merge.readme_update(readme, sub_merge.read_list(sub_list_json))
