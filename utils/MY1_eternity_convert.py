@@ -109,7 +109,7 @@ def eternity_convert(file, config, output, provider_file_enabled=True):
                 line = re.sub("name:( |)(.*?),", "name: %s | %s," %
                               (name, speed), line)
             except:
-                print(log_lines_without_bad_char[indexx])
+                #           print(log_lines_without_bad_char[indexx])
                 pass
             #           line = '  ' + line
             line = line.replace('- ', '')
@@ -189,8 +189,7 @@ def eternity_convert(file, config, output, provider_file_enabled=True):
                     name_dict[key].append(
                         str(proxy['name']).replace(" ", "") + " | " + speed)
                 except:
-                    #         name_dict[key].append(str(proxy['name']).replace(" ", ""))
-                    #         print(log_lines_without_bad_char[indexx])
+                    name_dict[key].append(str(proxy['name']).replace(" ", ""))
 
                 indexx += 1
 
