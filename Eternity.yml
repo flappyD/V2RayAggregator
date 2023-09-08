@@ -47,7 +47,7 @@ proxies:
   type: ss
   cipher: rc4-md5
   password: RenzheCloudSS
-- name: 🇨🇳CN-124.225.66.240-060 | 0.0MB
+- name: 🇨🇳CN-14.29.202.221-060 | 0.0MB
   server: pr3.jymzffbquawl.com
   port: 6601
   type: ss
@@ -65,13 +65,13 @@ proxies:
   type: ss
   cipher: rc4-md5
   password: RenzheCloudSS
-- name: 🇨🇳CN-124.225.66.240-063 | 0.0MB
+- name: 🇨🇳CN-14.29.202.221-063 | 0.0MB
   server: pr3.jymzffbquawl.com
   port: 3036
   type: ss
   cipher: rc4-md5
   password: RenzheCloudSS
-- name: 🇨🇳CN-124.225.66.214-064 | 0.0MB
+- name: 🇨🇳CN-14.29.245.243-064 | 0.0MB
   server: bs3.jymzffbquawl.com
   port: 6600
   type: ss
@@ -89,7 +89,7 @@ proxies:
   type: ss
   cipher: rc4-md5
   password: RenzheCloudSS
-- name: 🇨🇳CN-124.225.66.240-067 | 0.0MB
+- name: 🇨🇳CN-14.29.202.221-067 | 0.0MB
   server: pr3.jymzffbquawl.com
   port: 5601
   type: ss
@@ -336,11 +336,11 @@ proxy-groups:
   - 🇨🇳CN-183.232.170.32-007 | 0.0MB
   - 🇨🇳CN-218.78.111.238-058 | 0.0MB
   - 🇨🇳CN-14.29.202.221-059 | 0.0MB
-  - 🇨🇳CN-124.225.66.240-060 | 0.0MB
+  - 🇨🇳CN-14.29.202.221-060 | 0.0MB
   - 🇨🇳CN-120.232.177.227-061 | 0.0MB
   - 🇨🇳CN-124.225.66.214-062 | 0.0MB
-  - 🇨🇳CN-124.225.66.240-063 | 0.0MB
-  - 🇨🇳CN-124.225.66.214-064 | 0.0MB
+  - 🇨🇳CN-14.29.202.221-063 | 0.0MB
+  - 🇨🇳CN-14.29.245.243-064 | 0.0MB
 - name: Tier 2 ⚡️
   type: url-test
   url: http://clients3.google.com/generate_204
@@ -349,7 +349,7 @@ proxy-groups:
   proxies:
   - 🇨🇳CN-120.232.177.227-065 | 0.0MB
   - 🇨🇳CN-14.29.245.243-066 | 0.0MB
-  - 🇨🇳CN-124.225.66.240-067 | 0.0MB
+  - 🇨🇳CN-14.29.202.221-067 | 0.0MB
   - 🇨🇳CN-14.29.202.221-068 | 0.0MB
   - 🇨🇳CN-124.225.66.214-069 | 0.0MB
   - 🇨🇳CN-124.225.66.214-070 | 0.0MB
