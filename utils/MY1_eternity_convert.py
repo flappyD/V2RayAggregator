@@ -109,7 +109,7 @@ def eternity_convert(file, config, output, provider_file_enabled=True):
                 line = re.sub("name:( |)(.*?),", "name: %s | %s," %
                               (name, speed), line)
             except:
-                #     print(log_lines_without_bad_char[indexx])
+                print(log_lines_without_bad_char[indexx])
                 pass
             #           line = '  ' + line
             line = line.replace('- ', '')
@@ -141,6 +141,7 @@ def eternity_convert(file, config, output, provider_file_enabled=True):
         print('Done!\n')
 
     # 创建完全配置的Eternity.yml
+    print('创建完全配置的Eternity.yml\n')
     config_f = open(config_file, 'r', encoding='utf-8')
     config_raw = config_f.read()
     config_f.close()
@@ -164,6 +165,7 @@ def eternity_convert(file, config, output, provider_file_enabled=True):
         provider_dic[key].update(provider_load)
 
     # 创建节点名列表
+    print('创建节点名列表\n')
     all_name = []
 #     others_name = []
 #     us_name = []
@@ -188,7 +190,7 @@ def eternity_convert(file, config, output, provider_file_enabled=True):
                         str(proxy['name']).replace(" ", "") + " | " + speed)
                 except:
                     name_dict[key].append(str(proxy['name']).replace(" ", ""))
-                    print(log_lines_without_bad_char[indexx])
+                    #         print(log_lines_without_bad_char[indexx])
 
                 indexx += 1
 
