@@ -78,18 +78,20 @@ def eternity_convert(file, config, output, provider_file_enabled=True):
         "�") == False, log_lines))
 
     # make sure the size of two list are equal
+    print(f"make sure the size of two list are equal")
     print(
         f"removed_bad_char count => {removed_bad_char.__len__()} & log_lines_without_bad_char count => {log_lines_without_bad_char.__len__()}")
 
     # take a part from begining of all lines
-    num = 200
-    print(
-        f"num = 200")
-    num = removed_bad_char.__len__() if removed_bad_char.__len__() <= num else num
-    print(
-        f"num = removed_bad_char")
+    # num = 200
+    # print(
+    #     f"num = 200")
+    # num = removed_bad_char.__len__() if removed_bad_char.__len__() <= num else num
+    # print(
+    #     f"num = removed_bad_char")
 
     # convert the safe partition to yaml format
+    print(f"convert the safe partition to yaml format")
     all_provider = "proxies:\n" + "\n".join(removed_bad_char[0:num + 1])
     print(
         f"all_provider =")
