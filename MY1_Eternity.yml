@@ -17,108 +17,108 @@ dns:
   - https://dns.google/dns-query
   - tls://dns.google:853
 proxies:
-- name: 🇨🇦CA-51.222.86.136-5476 | 6.155MB
+- name: 🇨🇦 CA-51.222.86.136-5476
   server: ca-trojan.bonds.id
   port: 443
   type: trojan
   password: bc7593fe-0604-4fbe-a70bYWVzLTI1Ni1nY206Q1VuZFNabllzUEtjdTaclWNFc1RmRBNk5NQU5KSnga3fa58ac5a3ef0-b4ab-11eb-b65e-1239d0255272
   skip-cert-verify: false
-- name: 🇦🇺AU-103.224.212.221-5846 | 4.376MB
+- name: 🇦🇺 AU-103.224.212.221-5846
   server: ap-northeast-1.openssl3.com
   port: 443
   type: trojan
   password: tune7jerky7HAYRICK
   sni: ap-northeast-1.openssl3.com
   skip-cert-verify: false
-- name: 🇭🇰HK-104.208.67.42-6005 | 3.878MB
+- name: 🇭🇰 HK-104.208.67.42-6005
   server: ca.stablize.top
   port: 443
   type: trojan
   password: 1bf16b43-0ad5-4512-a0e8-34bb8966278e
   skip-cert-verify: false
-- name: 🇨🇦CA-167.114.153.171-6008 | 0.083MB
+- name: 🇨🇦 CA-167.114.153.171-6008
   server: cat-1.opensvr.net
   port: 443
   type: trojan
   password: opentunnel.net-sdertyuijh
   skip-cert-verify: false
-- name: 🇦🇺AU-103.224.212.221-6257 | 0.081MB
+- name: 🇦🇺 AU-103.224.212.221-6257
   server: eu-east-ruo.openssl3.com
   port: 443
   type: trojan
   password: 9KogHwaY7hVD
   sni: eu-east-ruo.openssl3.com
   skip-cert-verify: false
-- name: 🇭🇰HK-104.208.67.42-6312 | 0.0MB
+- name: 🇭🇰 HK-104.208.67.42-6312
   server: uk.stablize.top
   port: 443
   type: trojan
   password: 1bf16b43-0ad5-4512-a0e8-34bb8966278e
   skip-cert-verify: false
-- name: 🇭🇰HK-20.24.73.213-7198 | 0.0MB
+- name: 🇭🇰 HK-20.24.73.213-7198
   server: jp.mjt001.com
   port: 443
   type: trojan
   password: 459d23f4-dcfd-4fef-9ba3-ef0ad10fc336
   sni: jp.mjt001.com
   skip-cert-verify: false
-- name: 🇺🇸US-38.9.140.66-7487 | 0.0MB
+- name: 🇺🇸 US-38.9.140.66-7487
   server: 38.9.140.66
   port: 443
   type: trojan
   password: vvip-periantara
   sni: id3tr.jagoan.vip
   skip-cert-verify: false
-- name: 🇺🇸US-38.9.140.66-7490 | 0.0MB
+- name: 🇺🇸 US-38.9.140.66-7490
   server: id3tr.jagoan.vip
   port: 443
   type: trojan
   password: vvip-periantara
   sni: id3tr.jagoan.vip
   skip-cert-verify: false
-- name: 🇷🇺RU-91.206.92.17-8092 | 0.0MB
+- name: 🇷🇺 RU-91.206.92.17-8092
   server: insaneguo2333.top
   port: 443
   type: trojan
   password: 1d0a80ca-0f96-4016-ac51-c284dedd28a1
   skip-cert-verify: false
-- name: 🇯🇵JP-20.210.114.173-8283 | 0.0MB
+- name: 🇯🇵 JP-20.210.114.173-8283
   server: my02.trojanyyds.xyz
   port: 443
   type: trojan
   password: 9bb27128-e6d2-4cac-bbd3-beb46c4417f8
   skip-cert-verify: false
-- name: 🇯🇵JP-20.210.114.173-8288 | 0.0MB
+- name: 🇯🇵 JP-20.210.114.173-8288
   server: my01.trojanyyds.xyz
   port: 443
   type: trojan
   password: 9bb27128-e6d2-4cac-bbd3-beb46c4417f8
   skip-cert-verify: false
-- name: 🇯🇵JP-20.89.142.179-8294 | 0.0MB
+- name: 🇯🇵 JP-20.89.142.179-8294
   server: tw02.trojanyyds.xyz
   port: 443
   type: trojan
   password: 9bb27128-e6d2-4cac-bbd3-beb46c4417f8
   skip-cert-verify: false
-- name: AE-3.28.178.166-8310 | 0.0MB
+- name: AE-3.28.178.166-8310
   server: series-g1.samanehha.co
   port: 443
   type: ss
   cipher: chacha20-ietf-poly1305
   password: sgjJsZJHLlhmdvUk
-- name: 🇨🇳CN-123.159.205.114-8462 | 0.0MB
+- name: 🇨🇳 CN-123.159.205.114-8462
   server: zz6.91js.pw
   port: 10051
   type: trojan
   password: a13820c547fa34c5c45515c12f0cd576
   skip-cert-verify: false
-- name: 🇬🇧GB-13.41.214.216-8600 | 0.0MB
+- name: 🇬🇧 GB-13.41.214.216-8600
   server: series-a1.samanehha.co
   port: 443
   type: ss
   cipher: chacha20-ietf-poly1305
   password: W74XFALLLuw6m5IA
-- name: 🇫🇷FR-217.182.76.202-8622 | 0.0MB
+- name: 🇫🇷 FR-217.182.76.202-8622
   server: pl2-vmess.greenssh.xyz
   port: 80
   type: vmess
@@ -132,21 +132,21 @@ proxies:
     path: /vmess
     headers:
       Host: pl2-vmess.greenssh.xyz
-- name: 🇫🇷FR-54.37.18.204-8661 | 0.0MB
+- name: 🇫🇷 FR-54.37.18.204-8661
   server: 54.37.18.204
   port: 443
   type: trojan
   password: opentunnel.net-imohammad93
   sni: ukt-2.opensvr.net
   skip-cert-verify: false
-- name: 🇫🇷FR-62.210.136.177-8675 | 0.0MB
+- name: 🇫🇷 FR-62.210.136.177-8675
   server: 62.210.136.177
   port: 636
   type: trojan
   password: 3576fa41-a482-4094-a42e-9a53a4047aef
   sni: www.stream.shoppingitalia.live
   skip-cert-verify: false
-- name: RELAY-172.67.69.247-0399 | 0.0MB
+- name: RELAY-172.67.69.247-0399
   server: yd1.992688.xyz
   port: 8880
   type: vmess
@@ -160,7 +160,7 @@ proxies:
     path: /
     headers:
       Host: vcus2.vpn66.eu.org
-- name: RELAY-172.67.229.16-0398 | 0.0MB
+- name: RELAY-172.67.229.16-0398
   server: ns1.v2-vip.fun
   port: 8880
   type: vmess
@@ -174,7 +174,7 @@ proxies:
     path: /Jnv8ViZOUVgijjOh0p5uGjHnXIiY
     headers:
       Host: fr7.tehme100.fun
-- name: RELAY-104.25.99.200-0385 | 0.0MB
+- name: RELAY-104.25.99.200-0385
   server: 104.25.99.200
   port: 2095
   type: vmess
@@ -188,7 +188,7 @@ proxies:
     path: /TG:@hkaa0
     headers:
       Host: 3.wyhkaa0.gq
-- name: RELAY-172.67.8.239-0364 | 0.0MB
+- name: RELAY-172.67.8.239-0364
   server: 172.67.8.239
   port: 443
   type: vmess
@@ -197,20 +197,20 @@ proxies:
   cipher: auto
   tls: true
   skip-cert-verify: false
-  servername: RELAY-172.67.8.239-0364 | 0.0MB
+  servername: vceu3e.twittei.me
   network: ws
   ws-opts:
     path: /ikun
     headers:
       Host: vceu3e.twittei.me
-- name: 🇭🇰HK-104.208.67.42-0357 | 0.0MB
+- name: 🇭🇰 HK-104.208.67.42-0357
   server: vpnhat.stablize.top
   port: 443
   type: trojan
   password: 30c80314-a395-45d9-b0ab-0171ad07c082
   sni: ap.stablize.top
   skip-cert-verify: false
-- name: RELAY-104.18.236.126-0355 | 0.0MB
+- name: RELAY-104.18.236.126-0355
   server: 104.18.236.126
   port: 8080
   type: vmess
@@ -224,7 +224,7 @@ proxies:
     path: /blue
     headers:
       Host: ecc.vtcss.top
-- name: 🇰🇷KR-144.24.69.81-0354 | 0.0MB
+- name: 🇰🇷 KR-144.24.69.81-0354
   server: 144.24.69.81
   port: 80
   type: vmess
@@ -238,7 +238,7 @@ proxies:
     path: /TG:@hkaa0
     headers:
       Host: 13.wyhkaa0.gq
-- name: RELAY-172.67.1.234-0348 | 0.0MB
+- name: RELAY-172.67.1.234-0348
   server: 172.67.1.234
   port: 2095
   type: vmess
@@ -252,166 +252,166 @@ proxies:
     path: /TG:@hkaa0
     headers:
       Host: 3.wyhkaa0.gq
-- name: 🇬🇧GB-23.106.33.156-8886 | 0.0MB
+- name: 🇬🇧 GB-23.106.33.156-8886
   server: 23.106.33.156
   port: 443
   type: trojan
   password: ZVqSTHcLasKIKGnzjnr8aHRPATiaTj5U
   sni: scottie.golfland.club
   skip-cert-verify: false
-- name: 🇸🇬SG-4.193.161.31-8951 | 0.0MB
+- name: 🇸🇬 SG-4.193.161.31-8951
   server: ukjs.stablize.top
   port: 443
   type: trojan
   password: cf1df355-e505-44a5-9c80-3fe732de1c71
   skip-cert-verify: false
-- name: 🇯🇵JP-185.212.56.168-9011 | 0.0MB
+- name: 🇯🇵 JP-185.212.56.168-9011
   server: tw.softbank.mjj-home.com
   port: 443
   type: trojan
   password: share.mjj-home.com
   skip-cert-verify: false
-- name: 🇯🇵JP-185.212.56.168-9012 | 0.0MB
+- name: 🇯🇵 JP-185.212.56.168-9012
   server: 185.212.56.168
   port: 443
   type: trojan
   password: share.mjj-home.com
   sni: tw.softbank.mjj-home.com
   skip-cert-verify: false
-- name: 🇯🇵JP-13.115.56.104-9018 | 0.0MB
+- name: 🇯🇵 JP-13.115.56.104-9018
   server: pqawsjp3.aiopen.cfd
   port: 443
   type: trojan
   password: f0366e33-84c9-4a20-ad40-4f1e2c230c36
   sni: 18-140-66-207.nhost.00cdn.com
   skip-cert-verify: false
-- name: 🇭🇰HK-20.24.73.213-9039 | 0.0MB
+- name: 🇭🇰 HK-20.24.73.213-9039
   server: ar.mjt001.com
   port: 443
   type: trojan
   password: b00ac480-3e34-4ca9-8b3b-0b4515e4b75d
   sni: ar.mjt001.com
   skip-cert-verify: false
-- name: 🇰🇷KR-20.214.180.46-9041 | 0.0MB
+- name: 🇰🇷 KR-20.214.180.46-9041
   server: my.mjt001.com
   port: 443
   type: trojan
   password: af4dc66a-ec88-4057-9e46-777b584577f7
   skip-cert-verify: false
-- name: 🇸🇬SG-4.193.133.171-9042 | 0.0MB
+- name: 🇸🇬 SG-4.193.133.171-9042
   server: ch.mjt001.com
   port: 443
   type: trojan
   password: af4dc66a-ec88-4057-9e46-777b584577f7
   sni: ch.mjt001.com
   skip-cert-verify: false
-- name: 🇳🇱NL-147.78.240.92-9077 | 0.0MB
+- name: 🇳🇱 NL-147.78.240.92-9077
   server: tj2.dalazhi.eu.org
   port: 443
   type: trojan
   password: 23fd9f2e-7ff8-4d98-8099-8acce9499433
   skip-cert-verify: false
-- name: 🇳🇱NL-147.78.240.92-9078 | 0.0MB
+- name: 🇳🇱 NL-147.78.240.92-9078
   server: 147.78.240.92
   port: 443
   type: trojan
   password: 23fd9f2e-7ff8-4d98-8099-8acce9499433
   sni: tj2.dalazhi.eu.org
   skip-cert-verify: false
-- name: 🇸🇬SG-4.193.79.253-9096 | 0.0MB
+- name: 🇸🇬 SG-4.193.79.253-9096
   server: vn.mjt001.com
   port: 443
   type: trojan
   password: d2eb7266-b912-4fc0-bcfb-47277251b506
   skip-cert-verify: false
-- name: 🇸🇬SG-4.193.79.253-9097 | 0.0MB
+- name: 🇸🇬 SG-4.193.79.253-9097
   server: tr.mjt001.com
   port: 443
   type: trojan
   password: d2eb7266-b912-4fc0-bcfb-47277251b506
   sni: tr.mjt001.com
   skip-cert-verify: false
-- name: 🇰🇷KR-20.214.180.46-9100 | 0.0MB
+- name: 🇰🇷 KR-20.214.180.46-9100
   server: kz.mjt001.com
   port: 443
   type: trojan
   password: b00ac480-3e34-4ca9-8b3b-0b4515e4b75d
   sni: kz.mjt001.com
   skip-cert-verify: false
-- name: 🇸🇬SG-4.193.133.171-9102 | 0.0MB
+- name: 🇸🇬 SG-4.193.133.171-9102
   server: sg.mjt001.com
   port: 443
   type: trojan
   password: af4dc66a-ec88-4057-9e46-777b584577f7
   sni: sg.mjt001.com
   skip-cert-verify: false
-- name: RO-194.14.217.115-9296 | 0.0MB
+- name: RO-194.14.217.115-9296
   server: 194.14.217.115
   port: 989
   type: ss
   cipher: aes-256-cfb
   password: f8f7aCzcPKbsF8p3
-- name: 🇷🇺RU-91.206.92.17-9354 | 0.0MB
+- name: 🇷🇺 RU-91.206.92.17-9354
   server: 91.206.92.17
   port: 443
   type: trojan
   password: 1d0a80ca-0f96-4016-ac51-c284dedd28a1
   sni: insaneguo2333.top
   skip-cert-verify: false
-- name: 🇸🇬SG-4.193.79.253-9437 | 0.0MB
+- name: 🇸🇬 SG-4.193.79.253-9437
   server: pt.mjt001.com
   port: 443
   type: trojan
   password: b00ac480-3e34-4ca9-8b3b-0b4515e4b75d
   sni: pt.mjt001.com
   skip-cert-verify: false
-- name: 🇸🇬SG-4.193.79.253-9438 | 0.0MB
+- name: 🇸🇬 SG-4.193.79.253-9438
   server: il.mjt001.com
   port: 443
   type: trojan
   password: b00ac480-3e34-4ca9-8b3b-0b4515e4b75d
   sni: il.mjt001.com
   skip-cert-verify: false
-- name: 🇰🇷KR-20.200.220.143-9439 | 0.0MB
+- name: 🇰🇷 KR-20.200.220.143-9439
   server: usla.mjt001.com
   port: 443
   type: trojan
   password: af4dc66a-ec88-4057-9e46-777b584577f7
   sni: usla.mjt001.com
   skip-cert-verify: false
-- name: 🇭🇰HK-20.24.73.213-9441 | 0.0MB
+- name: 🇭🇰 HK-20.24.73.213-9441
   server: hinet.mjt001.com
   port: 443
   type: trojan
   password: af4dc66a-ec88-4057-9e46-777b584577f7
   skip-cert-verify: false
-- name: 🇸🇬SG-103.253.24.216-9448 | 0.0MB
+- name: 🇸🇬 SG-103.253.24.216-9448
   server: sg3-trojan.bonds.id
   port: 443
   type: trojan
   password: 97fdf760-7bbf-11eb-8e14-1239d0255272
   skip-cert-verify: false
-- name: 🇸🇬SG-103.253.24.216-9449 | 0.0MB
+- name: 🇸🇬 SG-103.253.24.216-9449
   server: 103.253.24.216
   port: 443
   type: trojan
   password: 97fdf760-7bbf-11eb-8e14-1239d0255272
   sni: sg3-trojan.bonds.id
   skip-cert-verify: false
-- name: 🇸🇬SG-103.253.24.212-9456 | 0.0MB
+- name: 🇸🇬 SG-103.253.24.212-9456
   server: 103.253.24.212
   port: 443
   type: trojan
   password: 5c5ceb40-902b-11eb-945a-1239d0255272
   sni: sg1-trojan.bonds.id
   skip-cert-verify: false
-- name: 🇸🇬SG-4.193.79.253-9465 | 0.0MB
+- name: 🇸🇬 SG-4.193.79.253-9465
   server: kh.mjt001.com
   port: 443
   type: trojan
   password: 2f31805a-b9e0-4b7b-808f-c7971332d068
   skip-cert-verify: false
-- name: 🇺🇸US-47.89.211.175-9636 | 0.0MB
+- name: 🇺🇸 US-47.89.211.175-9636
   server: us51.encrypted.my.id
   port: 443
   type: vmess
@@ -425,7 +425,7 @@ proxies:
     path: /84BxD2shFYFpsiRGXACUPqWt
     headers:
       Host: us51.encrypted.my.id
-- name: 🇺🇸US-47.254.17.235-9637 | 0.0MB
+- name: 🇺🇸 US-47.254.17.235-9637
   server: us50.encrypted.my.id
   port: 80
   type: vmess
@@ -439,7 +439,7 @@ proxies:
     path: /Ogl9djGbo2NTAt3Ovj1NvwjJ
     headers:
       Host: us50.encrypted.my.id
-- name: 🇺🇸US-47.254.16.114-9639 | 0.0MB
+- name: 🇺🇸 US-47.254.16.114-9639
   server: us54.encrypted.my.id
   port: 80
   type: vmess
@@ -453,7 +453,7 @@ proxies:
     path: /mePGXW6SFZZw2QyAqaYK
     headers:
       Host: us54.encrypted.my.id
-- name: 🇺🇸US-47.254.16.114-9640 | 0.0MB
+- name: 🇺🇸 US-47.254.16.114-9640
   server: us54.encrypted.my.id
   port: 443
   type: vmess
@@ -467,7 +467,7 @@ proxies:
     path: /mePGXW6SFZZw2QyAqaYK
     headers:
       Host: us54.encrypted.my.id
-- name: 🇺🇸US-47.88.89.106-9641 | 0.0MB
+- name: 🇺🇸 US-47.88.89.106-9641
   server: us49.encrypted.my.id
   port: 80
   type: vmess
@@ -481,7 +481,7 @@ proxies:
     path: /rxrsOUmNbuTJCk4izFEHWrb9qm
     headers:
       Host: us49.encrypted.my.id
-- name: 🇺🇸US-47.88.89.106-9642 | 0.0MB
+- name: 🇺🇸 US-47.88.89.106-9642
   server: us49.encrypted.my.id
   port: 443
   type: vmess
@@ -495,7 +495,7 @@ proxies:
     path: /rxrsOUmNbuTJCk4izFEHWrb9qm
     headers:
       Host: us49.encrypted.my.id
-- name: 🇺🇸US-47.89.231.138-9643 | 0.0MB
+- name: 🇺🇸 US-47.89.231.138-9643
   server: us48.encrypted.my.id
   port: 80
   type: vmess
@@ -509,7 +509,7 @@ proxies:
     path: /O0emfe0pBfYovpz5526rhq
     headers:
       Host: us48.encrypted.my.id
-- name: 🇺🇸US-47.89.231.138-9644 | 0.0MB
+- name: 🇺🇸 US-47.89.231.138-9644
   server: us48.encrypted.my.id
   port: 443
   type: vmess
@@ -523,7 +523,7 @@ proxies:
     path: /O0emfe0pBfYovpz5526rhq
     headers:
       Host: us48.encrypted.my.id
-- name: 🇺🇸US-47.88.104.186-9645 | 0.0MB
+- name: 🇺🇸 US-47.88.104.186-9645
   server: us46.encrypted.my.id
   port: 80
   type: vmess
@@ -537,7 +537,7 @@ proxies:
     path: /4DJIP58JF6JTq4HIG0yr
     headers:
       Host: us46.encrypted.my.id
-- name: 🇺🇸US-47.88.104.186-9646 | 0.0MB
+- name: 🇺🇸 US-47.88.104.186-9646
   server: us46.encrypted.my.id
   port: 443
   type: vmess
@@ -551,7 +551,7 @@ proxies:
     path: /4DJIP58JF6JTq4HIG0yr
     headers:
       Host: us46.encrypted.my.id
-- name: 🇺🇸US-47.254.92.41-9890 | 0.0MB
+- name: 🇺🇸 US-47.254.92.41-9890
   server: 47.254.92.41
   port: 80
   type: vmess
@@ -563,7 +563,7 @@ proxies:
   network: ws
   ws-opts:
     path: /pSAXxD8Ib7FZloqUMG
-- name: 🇺🇸US-47.254.89.211-9891 | 0.0MB
+- name: 🇺🇸 US-47.254.89.211-9891
   server: 47.254.89.211
   port: 80
   type: vmess
@@ -575,7 +575,7 @@ proxies:
   network: ws
   ws-opts:
     path: /GSoTl9ZoYG5V2R0k4tUTGI8k
-- name: 🇺🇸US-47.254.30.243-9894 | 0.0MB
+- name: 🇺🇸 US-47.254.30.243-9894
   server: 47.254.30.243
   port: 80
   type: vmess
@@ -587,7 +587,7 @@ proxies:
   network: ws
   ws-opts:
     path: /KXwHGCrIVG4NYiB2
-- name: 🇺🇸US-47.254.16.114-9897 | 0.0MB
+- name: 🇺🇸 US-47.254.16.114-9897
   server: 47.254.16.114
   port: 80
   type: vmess
@@ -599,7 +599,7 @@ proxies:
   network: ws
   ws-opts:
     path: /mePGXW6SFZZw2QyAqaYK
-- name: 🇺🇸US-47.89.231.138-9906 | 0.0MB
+- name: 🇺🇸 US-47.89.231.138-9906
   server: 47.89.231.138
   port: 80
   type: vmess
@@ -611,7 +611,7 @@ proxies:
   network: ws
   ws-opts:
     path: /O0emfe0pBfYovpz5526rhq
-- name: 🇺🇸US-47.89.229.201-9908 | 0.0MB
+- name: 🇺🇸 US-47.89.229.201-9908
   server: 47.89.229.201
   port: 80
   type: vmess
@@ -623,7 +623,7 @@ proxies:
   network: ws
   ws-opts:
     path: /PxcYlDIHtv3GtsBfhm1AaayIV
-- name: 🇺🇸US-47.89.192.94-9910 | 0.0MB
+- name: 🇺🇸 US-47.89.192.94-9910
   server: 47.89.192.94
   port: 80
   type: vmess
@@ -635,7 +635,7 @@ proxies:
   network: ws
   ws-opts:
     path: /4a5yXsGODBM1cvl9TzyF0SHR3v
-- name: 🇺🇸US-47.88.106.47-9911 | 0.0MB
+- name: 🇺🇸 US-47.88.106.47-9911
   server: 47.88.106.47
   port: 80
   type: vmess
@@ -647,7 +647,7 @@ proxies:
   network: ws
   ws-opts:
     path: /qRV8zMMajQyex4KWUBkia1vvH
-- name: 🇺🇸US-47.88.104.186-9912 | 0.0MB
+- name: 🇺🇸 US-47.88.104.186-9912
   server: 47.88.104.186
   port: 80
   type: vmess
@@ -659,7 +659,7 @@ proxies:
   network: ws
   ws-opts:
     path: /4DJIP58JF6JTq4HIG0yr
-- name: 🇺🇸US-47.88.89.251-9914 | 0.0MB
+- name: 🇺🇸 US-47.88.89.251-9914
   server: 47.88.89.251
   port: 80
   type: vmess
@@ -671,31 +671,31 @@ proxies:
   network: ws
   ws-opts:
     path: /MqINN7CF6UeFSASP4LNTFNn
-- name: 🇺🇸US-51.81.82.15-10024 | 0.0MB
+- name: 🇺🇸 US-51.81.82.15-10024
   server: us-trojan.bonds.id
   port: 443
   type: trojan
   password: ccf1ee40-b4ab-11eb-b421-1239d0255272
   skip-cert-verify: false
-- name: 🇨🇳CN-183.240.139.207-13655 | 0.0MB
+- name: 🇨🇳 CN-183.240.139.207-13655
   server: assets.flareai.site
   port: 13343
   type: trojan
   password: d0d24d5b-54ae-40a0-ab68-889dbd4b8a66
   skip-cert-verify: false
-- name: 🇨🇳CN-183.240.139.207-13657 | 0.0MB
+- name: 🇨🇳 CN-183.240.139.207-13657
   server: assets.flareai.site
   port: 13543
   type: trojan
   password: d0d24d5b-54ae-40a0-ab68-889dbd4b8a66
   skip-cert-verify: false
-- name: 🇰🇷KR-20.200.220.143-13704 | 0.0MB
+- name: 🇰🇷 KR-20.200.220.143-13704
   server: kr.mjt001.com
   port: 443
   type: trojan
   password: ad3f9bf7-d8d1-47df-a6bd-77ff50037339
   skip-cert-verify: false
-- name: RELAY-172.64.80.1-13742 | 0.0MB
+- name: RELAY-172.64.80.1-13742
   server: pzl.p237875155.buzz
   port: 443
   type: vmess
@@ -704,19 +704,25 @@ proxies:
   cipher: auto
   tls: true
   skip-cert-verify: false
-  servername: RELAY-172.64.80.1-13742 | 0.0MB
+  servername: pzl.p237875155.buzz
   network: ws
   ws-opts:
     path: /pzl237875155
     headers:
       Host: pzl.p237875155.buzz
-- name: 🇭🇰HK-104.208.67.42-13790 | 0.0MB
+- name: 🇭🇰 HK-104.208.67.42-13790
   server: lu.stablize.top
   port: 443
   type: trojan
   password: 7f5e1438-0c8f-46d2-baf4-7025c264532e
   skip-cert-verify: false
-- name: RELAY-104.31.16.46-0150 | 0.0MB
+- name: 🇸🇬 SG-103.253.24.212-15472
+  server: sg1-trojan.bonds.id
+  port: 443
+  type: trojan
+  password: 71086710-33eb-11ed-adce-1239d0255272
+  skip-cert-verify: false
+- name: RELAY-104.31.16.46-0150
   server: 104.31.16.46
   port: 2082
   type: vmess
@@ -1650,20 +1656,6 @@ proxies:
   type: ss
   cipher: aes-256-cfb
   password: f8f7aCzcPKbsF8p3
-- name: 🇫🇷 FR-146.59.15.243-0740
-  server: pl1-vmess.greenssh.xyz
-  port: 80
-  type: vmess
-  uuid: 26cd2459-4f68-4e56-b19c-b0b26f6ff843
-  alterId: 0
-  cipher: auto
-  tls: false
-  skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: /
-    headers:
-      Host: pl1-vmess.greenssh.xyz
 proxy-groups:
 - name: Global ©️
   type: select
@@ -1720,90 +1712,91 @@ proxy-groups:
   interval: 300
   tolerance: 100
   proxies:
-  - 🇨🇦CA-51.222.86.136-5476 | 6.155MB
-  - 🇦🇺AU-103.224.212.221-5846 | 4.376MB
-  - 🇭🇰HK-104.208.67.42-6005 | 3.878MB
-  - 🇨🇦CA-167.114.153.171-6008 | 0.083MB
-  - 🇦🇺AU-103.224.212.221-6257 | 0.081MB
-  - 🇭🇰HK-104.208.67.42-6312 | 0.0MB
-  - 🇭🇰HK-20.24.73.213-7198 | 0.0MB
-  - 🇺🇸US-38.9.140.66-7487 | 0.0MB
-  - 🇺🇸US-38.9.140.66-7490 | 0.0MB
-  - 🇷🇺RU-91.206.92.17-8092 | 0.0MB
-  - 🇯🇵JP-20.210.114.173-8283 | 0.0MB
-  - 🇯🇵JP-20.210.114.173-8288 | 0.0MB
-  - 🇯🇵JP-20.89.142.179-8294 | 0.0MB
-  - AE-3.28.178.166-8310 | 0.0MB
-  - 🇨🇳CN-123.159.205.114-8462 | 0.0MB
-  - 🇬🇧GB-13.41.214.216-8600 | 0.0MB
-  - 🇫🇷FR-217.182.76.202-8622 | 0.0MB
-  - 🇫🇷FR-54.37.18.204-8661 | 0.0MB
-  - 🇫🇷FR-62.210.136.177-8675 | 0.0MB
-  - RELAY-172.67.69.247-0399 | 0.0MB
-  - RELAY-172.67.229.16-0398 | 0.0MB
-  - RELAY-104.25.99.200-0385 | 0.0MB
-  - RELAY-172.67.8.239-0364 | 0.0MB
-  - 🇭🇰HK-104.208.67.42-0357 | 0.0MB
-  - RELAY-104.18.236.126-0355 | 0.0MB
-  - 🇰🇷KR-144.24.69.81-0354 | 0.0MB
-  - RELAY-172.67.1.234-0348 | 0.0MB
-  - 🇬🇧GB-23.106.33.156-8886 | 0.0MB
-  - 🇸🇬SG-4.193.161.31-8951 | 0.0MB
-  - 🇯🇵JP-185.212.56.168-9011 | 0.0MB
-  - 🇯🇵JP-185.212.56.168-9012 | 0.0MB
-  - 🇯🇵JP-13.115.56.104-9018 | 0.0MB
-  - 🇭🇰HK-20.24.73.213-9039 | 0.0MB
-  - 🇰🇷KR-20.214.180.46-9041 | 0.0MB
-  - 🇸🇬SG-4.193.133.171-9042 | 0.0MB
-  - 🇳🇱NL-147.78.240.92-9077 | 0.0MB
-  - 🇳🇱NL-147.78.240.92-9078 | 0.0MB
-  - 🇸🇬SG-4.193.79.253-9096 | 0.0MB
-  - 🇸🇬SG-4.193.79.253-9097 | 0.0MB
-  - 🇰🇷KR-20.214.180.46-9100 | 0.0MB
-  - 🇸🇬SG-4.193.133.171-9102 | 0.0MB
-  - RO-194.14.217.115-9296 | 0.0MB
-  - 🇷🇺RU-91.206.92.17-9354 | 0.0MB
-  - 🇸🇬SG-4.193.79.253-9437 | 0.0MB
-  - 🇸🇬SG-4.193.79.253-9438 | 0.0MB
-  - 🇰🇷KR-20.200.220.143-9439 | 0.0MB
-  - 🇭🇰HK-20.24.73.213-9441 | 0.0MB
-  - 🇸🇬SG-103.253.24.216-9448 | 0.0MB
-  - 🇸🇬SG-103.253.24.216-9449 | 0.0MB
-  - 🇸🇬SG-103.253.24.212-9456 | 0.0MB
+  - 🇨🇦CA-51.222.86.136-5476
+  - 🇦🇺AU-103.224.212.221-5846
+  - 🇭🇰HK-104.208.67.42-6005
+  - 🇨🇦CA-167.114.153.171-6008
+  - 🇦🇺AU-103.224.212.221-6257
+  - 🇭🇰HK-104.208.67.42-6312
+  - 🇭🇰HK-20.24.73.213-7198
+  - 🇺🇸US-38.9.140.66-7487
+  - 🇺🇸US-38.9.140.66-7490
+  - 🇷🇺RU-91.206.92.17-8092
+  - 🇯🇵JP-20.210.114.173-8283
+  - 🇯🇵JP-20.210.114.173-8288
+  - 🇯🇵JP-20.89.142.179-8294
+  - AE-3.28.178.166-8310
+  - 🇨🇳CN-123.159.205.114-8462
+  - 🇬🇧GB-13.41.214.216-8600
+  - 🇫🇷FR-217.182.76.202-8622
+  - 🇫🇷FR-54.37.18.204-8661
+  - 🇫🇷FR-62.210.136.177-8675
+  - RELAY-172.67.69.247-0399
+  - RELAY-172.67.229.16-0398
+  - RELAY-104.25.99.200-0385
+  - RELAY-172.67.8.239-0364
+  - 🇭🇰HK-104.208.67.42-0357
+  - RELAY-104.18.236.126-0355
+  - 🇰🇷KR-144.24.69.81-0354
+  - RELAY-172.67.1.234-0348
+  - 🇬🇧GB-23.106.33.156-8886
+  - 🇸🇬SG-4.193.161.31-8951
+  - 🇯🇵JP-185.212.56.168-9011
+  - 🇯🇵JP-185.212.56.168-9012
+  - 🇯🇵JP-13.115.56.104-9018
+  - 🇭🇰HK-20.24.73.213-9039
+  - 🇰🇷KR-20.214.180.46-9041
+  - 🇸🇬SG-4.193.133.171-9042
+  - 🇳🇱NL-147.78.240.92-9077
+  - 🇳🇱NL-147.78.240.92-9078
+  - 🇸🇬SG-4.193.79.253-9096
+  - 🇸🇬SG-4.193.79.253-9097
+  - 🇰🇷KR-20.214.180.46-9100
+  - 🇸🇬SG-4.193.133.171-9102
+  - RO-194.14.217.115-9296
+  - 🇷🇺RU-91.206.92.17-9354
+  - 🇸🇬SG-4.193.79.253-9437
+  - 🇸🇬SG-4.193.79.253-9438
+  - 🇰🇷KR-20.200.220.143-9439
+  - 🇭🇰HK-20.24.73.213-9441
+  - 🇸🇬SG-103.253.24.216-9448
+  - 🇸🇬SG-103.253.24.216-9449
+  - 🇸🇬SG-103.253.24.212-9456
 - name: Tier 2 ⚡️
   type: url-test
   url: http://clients3.google.com/generate_204
   interval: 300
   tolerance: 100
   proxies:
-  - 🇸🇬SG-4.193.79.253-9465 | 0.0MB
-  - 🇺🇸US-47.89.211.175-9636 | 0.0MB
-  - 🇺🇸US-47.254.17.235-9637 | 0.0MB
-  - 🇺🇸US-47.254.16.114-9639 | 0.0MB
-  - 🇺🇸US-47.254.16.114-9640 | 0.0MB
-  - 🇺🇸US-47.88.89.106-9641 | 0.0MB
-  - 🇺🇸US-47.88.89.106-9642 | 0.0MB
-  - 🇺🇸US-47.89.231.138-9643 | 0.0MB
-  - 🇺🇸US-47.89.231.138-9644 | 0.0MB
-  - 🇺🇸US-47.88.104.186-9645 | 0.0MB
-  - 🇺🇸US-47.88.104.186-9646 | 0.0MB
-  - 🇺🇸US-47.254.92.41-9890 | 0.0MB
-  - 🇺🇸US-47.254.89.211-9891 | 0.0MB
-  - 🇺🇸US-47.254.30.243-9894 | 0.0MB
-  - 🇺🇸US-47.254.16.114-9897 | 0.0MB
-  - 🇺🇸US-47.89.231.138-9906 | 0.0MB
-  - 🇺🇸US-47.89.229.201-9908 | 0.0MB
-  - 🇺🇸US-47.89.192.94-9910 | 0.0MB
-  - 🇺🇸US-47.88.106.47-9911 | 0.0MB
-  - 🇺🇸US-47.88.104.186-9912 | 0.0MB
-  - 🇺🇸US-47.88.89.251-9914 | 0.0MB
-  - 🇺🇸US-51.81.82.15-10024 | 0.0MB
-  - 🇨🇳CN-183.240.139.207-13655 | 0.0MB
-  - 🇨🇳CN-183.240.139.207-13657 | 0.0MB
-  - 🇰🇷KR-20.200.220.143-13704 | 0.0MB
-  - RELAY-172.64.80.1-13742 | 0.0MB
-  - 🇭🇰HK-104.208.67.42-13790 | 0.0MB
-  - RELAY-104.31.16.46-0150 | 0.0MB
+  - 🇸🇬SG-4.193.79.253-9465
+  - 🇺🇸US-47.89.211.175-9636
+  - 🇺🇸US-47.254.17.235-9637
+  - 🇺🇸US-47.254.16.114-9639
+  - 🇺🇸US-47.254.16.114-9640
+  - 🇺🇸US-47.88.89.106-9641
+  - 🇺🇸US-47.88.89.106-9642
+  - 🇺🇸US-47.89.231.138-9643
+  - 🇺🇸US-47.89.231.138-9644
+  - 🇺🇸US-47.88.104.186-9645
+  - 🇺🇸US-47.88.104.186-9646
+  - 🇺🇸US-47.254.92.41-9890
+  - 🇺🇸US-47.254.89.211-9891
+  - 🇺🇸US-47.254.30.243-9894
+  - 🇺🇸US-47.254.16.114-9897
+  - 🇺🇸US-47.89.231.138-9906
+  - 🇺🇸US-47.89.229.201-9908
+  - 🇺🇸US-47.89.192.94-9910
+  - 🇺🇸US-47.88.106.47-9911
+  - 🇺🇸US-47.88.104.186-9912
+  - 🇺🇸US-47.88.89.251-9914
+  - 🇺🇸US-51.81.82.15-10024
+  - 🇨🇳CN-183.240.139.207-13655
+  - 🇨🇳CN-183.240.139.207-13657
+  - 🇰🇷KR-20.200.220.143-13704
+  - RELAY-172.64.80.1-13742
+  - 🇭🇰HK-104.208.67.42-13790
+  - 🇸🇬SG-103.253.24.212-15472
+  - RELAY-104.31.16.46-0150
   - RELAY-172.67.45.210-0148
   - 🇺🇸US-142.202.48.99-15907
   - RELAY-172.67.75.194-0074
@@ -1825,13 +1818,13 @@ proxy-groups:
   - 🇺🇸US-173.255.211.225-1753
   - 🇺🇸US-184.170.241.194-0651
   - RELAY-194.36.55.106-4228
-  - 🇺🇸US-173.255.243.84-16978
 - name: Tier 3 💎
   type: url-test
   url: http://clients3.google.com/generate_204
   interval: 300
   tolerance: 100
   proxies:
+  - 🇺🇸US-173.255.243.84-16978
   - 🇺🇸US-66.152.161.107-0176
   - 🇺🇸US-212.102.47.198-0657
   - 🇺🇸US-37.218.241.130-0649
@@ -1881,13 +1874,13 @@ proxy-groups:
   - AT-185.180.12.81-0725
   - CZ-143.244.58.102-0718
   - SE-37.19.222.211-17352
-  - 🇯🇵JP-103.106.228.223-0200
 - name: Tier 4 🗿
   type: url-test
   url: http://clients3.google.com/generate_204
   interval: 300
   tolerance: 100
   proxies:
+  - 🇯🇵JP-103.106.228.223-0200
   - SE-37.19.222.213-17350
   - 🇪🇸ES-82.223.108.64-0730
   - SE-121.127.46.147-0726
@@ -1938,6 +1931,5 @@ proxy-groups:
   - EE-45.129.96.62-8454
   - 🇺🇸US-169.197.141.186-0818
   - CY-213.169.137.221-8733
-  - 🇫🇷FR-146.59.15.243-0740
 rules:
 - MATCH,Global ©️
