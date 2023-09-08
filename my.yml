@@ -58,7 +58,20 @@ proxy-providers:
       url: "https://cp.cloudflare.com"
       #url: "http://www.gstatic.com/generate_204"
       #url: "https://belarus2020.org"
-      
+      #url: "https://cdn.jsdelivr.net"
+      #url: "https://detectportal.firefox.com/success.txt"
+
+  my_collection:
+    type: http
+    url: "https://raw.githubusercontent.com/flappyD/V2RayAggregator/master/update/provider/MY1_provider-all.yml"
+    interval: 3600
+    path: ./providers/my_collection.yaml
+    health-check:
+      enable: true
+      interval: 300
+      url: "https://cp.cloudflare.com"
+      #url: "http://www.gstatic.com/generate_204"
+      #url: "https://belarus2020.org"
       #url: "https://cdn.jsdelivr.net"
       #url: "https://detectportal.firefox.com/success.txt"
 
