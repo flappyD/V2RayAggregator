@@ -189,7 +189,7 @@ def eternity_convert(file, config, output, provider_file_enabled=True):
                     name_dict[key].append(
                         str(proxy['name']).replace(" ", "") + " | " + speed)
                 except:
-                    name_dict[key].append(str(proxy['name']).replace(" ", ""))
+                    #         name_dict[key].append(str(proxy['name']).replace(" ", ""))
                     #         print(log_lines_without_bad_char[indexx])
 
                 indexx += 1
