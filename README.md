@@ -422,12 +422,11 @@ merge nodes w/o dup: `78`
 
 
 ### node sources
-- [mianfeifq/share](https://github.com/mianfeifq/share), number of nodes: `153`
-- [RenaLio/Mux2sub](https://github.com/RenaLio/Mux2sub), number of nodes: `2`
+- [mianfeifq/share](https://github.com/mianfeifq/share), number of nodes: `137`
 - [mahdibland/ShadowsocksAggregator](https://github.com/mahdibland/ShadowsocksAggregator), number of nodes: `200`
 - [Rokate/Proxy-Sub](https://github.com/Rokate/Proxy-Sub), number of nodes: `1`
 - [misersun/config003-002](https://github.com/misersun/config003), number of nodes: `133`
-- [clash.221207.xyz/pubclashyaml](https://clash.221207.xyz/pubclashyaml), number of nodes: `1453`
+- [clash.221207.xyz/pubclashyaml](https://clash.221207.xyz/pubclashyaml), number of nodes: `1283`
 - [tbbatbb/Proxy](https://github.com/tbbatbb/Proxy), number of nodes: `604`
 - [mfuu/v2ray](https://github.com/mfuu/v2ray), number of nodes: `80`
 - [xiyaowong/freeFQ](https://github.com/xiyaowong/freeFQ), number of nodes: `156`
