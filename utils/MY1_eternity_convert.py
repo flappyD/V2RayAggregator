@@ -244,11 +244,7 @@ def eternity_convert(file, config, output, provider_file_enabled=True):
     Eternity_yml.close()
 
 
-def backup(file):
-    try:
-        
-    except Exception as e:
-        print("Error While backup EterniyBase_file => if you use method yaml ignore this")
+
 
 
 if __name__ == '__main__':
@@ -258,5 +254,5 @@ if __name__ == '__main__':
     print("eternity_convert")
     eternity_convert(Eterniy_file, config_file, output=Eternity_yml_file)
     print("backup")
-    backup(Eterniy_file)
+    #           backup(Eterniy_file)
     sub_merge.readme_update(readme, sub_merge.read_list(sub_list_json))
