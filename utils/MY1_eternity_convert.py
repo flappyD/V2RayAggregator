@@ -85,7 +85,7 @@ def eternity_convert(file, config, output, provider_file_enabled=True):
 
     # take a part from begining of all lines
     print(f"take a part from begining of all lines")
-    num = 200
+    num = 1000
     num = removed_bad_char.__len__() if removed_bad_char.__len__() <= num else num
 
     # convert the safe partition to yaml format
