@@ -83,12 +83,20 @@ def eternity_convert(file, config, output, provider_file_enabled=True):
 
     # take a part from begining of all lines
     num = 200
+    print(
+        f"num = 200")
     num = removed_bad_char.__len__() if removed_bad_char.__len__() <= num else num
+    print(
+        f"num = removed_bad_char")
 
     # convert the safe partition to yaml format
     all_provider = "proxies:\n" + "\n".join(removed_bad_char[0:num + 1])
+    print(
+        f"all_provider =")
 
     lines = re.split(r'\n+', all_provider)
+    print(
+        f"lines = ")
 
     proxy_all = []
     #     us_proxy = []
