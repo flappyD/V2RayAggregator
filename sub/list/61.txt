@@ -1,15 +1,17 @@
-  - {name: 🇨🇳 中国=tg频道:@bpjzx2=13, server: 183.232.170.32, port: 30005, type: ss, cipher: aes-128-gcm, password: g12sQi#ss#&1, plugin: obfs, plugin-opts: {mode: "", host: ""}}
-  - {name: 🇮🇱 以色列=tg频道:@bpjzx2=3, server: 77.91.69.236, port: 51348, type: ss, cipher: chacha20-ietf-poly1305, password: bhldXbB67HGqwR120AW5ZP}
-  - {name: 🇷🇺 俄罗斯联邦=tg频道:@bpjzx2=5, server: 91.192.81.166, port: 443, type: ssr, cipher: aes-256-ctr, password: NewBypasser2023, protocol: origin, obfs: tls1.2_ticket_auth, protocol-param: "", obfs-param: cdn.appsflyer.c%�}
-  - {name: 🇷🇺 俄罗斯联邦=tg频道:@bpjzx2=7, server: 92.53.86.220, port: 51348, type: ss, cipher: chacha20-ietf-poly1305, password: Y26aH7Xfgd5f0xXKA}
-  - {name: 🇸🇬 新加坡=tg频道:@bpjzx2=2, server: 13.213.53.160, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-  - {name: 🇸🇬 新加坡=tg频道:@bpjzx2=8, server: 54.255.190.166, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-  - {name: 🇸🇬 新加坡=tg频道:@bpjzx2=9, server: 5.34.177.82, port: 80, type: ss, cipher: chacha20-ietf-poly1305, password: 9eMQ1yPowwygotq0VUv4qs}
-  - {name: 🇫🇷 法国=tg频道:@bpjzx2=4, server: 57.128.173.6, port: 443, type: trojan, password: 29f2cf65-f0ee-4a08-83f3-df1beb74d55d, sni: www.speedtest.net, skip-cert-verify: false}
-  - {name: 🇺🇸 美国=tg频道:@bpjzx2=1, server: 103.149.144.45, port: 19482, type: vmess, uuid: 50a170b7-1198-4603-e51a-0da28605d9e2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: 🇺🇸 美国=tg频道:@bpjzx2=11, server: 172.64.105.187, port: 80, type: vmess, uuid: 5f751c6e-50b1-4797-ba8e-6ffe324a0bce, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /shirker, headers: {Host: ca.ilovescp.com}}}
-  - {name: 🇺🇸 美国=tg频道:@bpjzx2=14, server: 14.18.106.137, port: 41929, type: trojan, password: 09833a6f-4d46-426e-87fe-7793a5489f84, sni: nl01.lovehjq.xyz, skip-cert-verify: false}
-  - {name: 🇺🇸 美国=tg频道:@bpjzx2=15, server: 14.18.108.108, port: 41929, type: trojan, password: 09833a6f-4d46-426e-87fe-7793a5489f84, sni: nl01.lovehjq.xyz, skip-cert-verify: false}
-  - {name: 🇬🇧 英国=tg频道:@bpjzx2=12, server: 198.244.252.93, port: 443, type: trojan, password: de5a47b3e2, sni: uk1.connecton.surf, skip-cert-verify: false}
-  - {name: 🇬🇧 英国=tg频道:@bpjzx2=6, server: 91.228.10.89, port: 80, type: ss, cipher: chacha20-ietf-poly1305, password: 72JB7n05CEq4sjH0Rz4YzV}
-  - {name: 🇰🇷 韩国=tg频道:@bpjzx2=10, server: 43.200.245.221, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+  - {name: 🇰🇷 韩国=tg频道:@bpjzx2=1, server: yidong.liulangdiqiu.cyou, port: 10703, type: ss, cipher: chacha20-ietf-poly1305, password: 51239bce-01ab-454d-baa5-c0940c9f1751}
+  - {name: 🇦🇪 阿联酋=tg频道:@bpjzx2=1, server: yidong.liulangdiqiu.cyou, port: 10722, type: ss, cipher: chacha20-ietf-poly1305, password: 51239bce-01ab-454d-baa5-c0940c9f1751}
+  - {name: 🇺🇸 美国=tg频道:@bpjzx2=8, server: Tokyo.mfa.ee, port: 2052, type: vmess, uuid: 992889a7-296e-4a44-98c2-0eb89af4411d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: vnpt.iiio.wiki}}}
+  - {name: 🇺🇸 美国=tg频道:@bpjzx2=7, server: free.node.kk-proxy.pro, port: 55928, type: ss, cipher: chacha20-ietf-poly1305, password: cf4d88ea-ae0d-4272-8f75-8eabdf018981}
+  - {name: 🇺🇸 美国=tg频道:@bpjzx2=6, server: yidong.liulangdiqiu.cyou, port: 10726, type: ss, cipher: chacha20-ietf-poly1305, password: 51239bce-01ab-454d-baa5-c0940c9f1751}
+  - {name: 🇺🇸 美国=tg频道:@bpjzx2=5, server: usajs.stablize.top, port: 443, type: trojan, password: da88864b-6aa5-4d18-8e36-ac809a24c571, skip-cert-verify: false}
+  - {name: 🇺🇸 美国=tg频道:@bpjzx2=4, server: free.node.kk-proxy.pro, port: 54455, type: ss, cipher: chacha20-ietf-poly1305, password: cf4d88ea-ae0d-4272-8f75-8eabdf018981}
+  - {name: 🇺🇸 美国=tg频道:@bpjzx2=3, server: dongtaiwang2.com, port: 443, type: vmess, uuid: 87a95522-985c-4a17-afea-9b7d7208bce5, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /dongtaiwang.com, headers: {Host: 3.freek1.xyz}}}
+  - {name: 🇺🇸 美国=tg频道:@bpjzx2=2, server: sg2.wyhkaa0.cf, port: 80, type: vmess, uuid: fc426675-5daa-46c0-d998-61f9f5323e3f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /TG:@hkaa0, headers: {Host: sg2.wyhkaa0.cf}}}
+  - {name: 🇺🇸 美国=tg频道:@bpjzx2=1, server: yd1.992688.xyz, port: 8880, type: vmess, uuid: 27998387-fc3b-4237-9ac9-aba5d00bbd6e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: haxus3.vpn66.eu.org}}}
+  - {name: 🇫🇷 法国=tg频道:@bpjzx2=1, server: yidong.liulangdiqiu.cyou, port: 10716, type: ss, cipher: chacha20-ietf-poly1305, password: 51239bce-01ab-454d-baa5-c0940c9f1751}
+  - {name: "🇯🇵 日本特殊|@ripaojiedian\r", server: 18.181.147.110, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+  - {name: 🇸🇬 新加坡=tg频道:@bpjzx2=2, server: free.node.kk-proxy.pro, port: 24962, type: ss, cipher: chacha20-ietf-poly1305, password: cf4d88ea-ae0d-4272-8f75-8eabdf018981}
+  - {name: 🇸🇬 新加坡=tg频道:@bpjzx2=1, server: sg-am3.eqsunshine.com, port: 32001, type: ssr, cipher: aes-256-cfb, password: 3g0dHlKME, protocol: origin, obfs: tls1.2_ticket_auth, protocol-param: "", obfs-param: ""}
+  - {name: 🇿🇦 南非=tg频道:@bpjzx2=1, server: yidong.liulangdiqiu.cyou, port: 10723, type: ss, cipher: chacha20-ietf-poly1305, password: 51239bce-01ab-454d-baa5-c0940c9f1751}
+  - {name: 🇨🇦 加拿大=tg频道:@bpjzx2=1, server: yidong.liulangdiqiu.cyou, port: 10712, type: ss, cipher: chacha20-ietf-poly1305, password: 51239bce-01ab-454d-baa5-c0940c9f1751}
+  - {name: 🇨🇳 中国=tg频道:@bpjzx2=2, server: cm1-go.go001.buzz, port: 31101, type: ss, cipher: aes-256-gcm, password: !<str> 123456}
