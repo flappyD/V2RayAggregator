@@ -428,9 +428,9 @@ merge nodes w/o dup: `74`
 - [mahdibland/get_v2](https://github.com/mahdibland/get_v2), number of nodes: `281`
 - [vveg26/get_proxy](https://github.com/vveg26/get_proxy), number of nodes: `629`
 - [adminaliang/v2ray](https://github.com/adminaliang/v2ray), number of nodes: `16`
-- [Jia-Pingwa/free-v2ray-merge](https://github.com/Jia-Pingwa/free-v2ray-merge), number of nodes: `327`
 - [Lewis-1217/FreeNodes](https://github.com/Lewis-1217/FreeNodes), number of nodes: `7`
 - [learnhard-cn/free_proxy_ss](https://github.com/learnhard-cn/free_proxy_ss), number of nodes: `100`
+- [sub.pmsub.me/base64](https://sub.pmsub.me/base64), number of nodes: `93`
 - [hermanb001/ProxyTest](https://github.com/hermanb001/ProxyTest), number of nodes: `680`
 
 ## Softwares
