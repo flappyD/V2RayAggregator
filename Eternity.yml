@@ -41,7 +41,7 @@ proxies:
   type: ss
   cipher: rc4-md5
   password: RenzheCloudSS
-- name: 🇨🇳CN-124.225.66.240-055 | 0.0MB
+- name: 🇨🇳CN-59.36.74.215-055 | 0.0MB
   server: pr3.jymzffbquawl.com
   port: 6601
   type: ss
@@ -53,7 +53,7 @@ proxies:
   type: ss
   cipher: rc4-md5
   password: RenzheCloudSS
-- name: 🇨🇳CN-27.155.101.150-057 | 0.0MB
+- name: 🇨🇳CN-14.29.245.243-057 | 0.0MB
   server: bs3.jymzffbquawl.com
   port: 6603
   type: ss
@@ -65,7 +65,7 @@ proxies:
   type: ss
   cipher: rc4-md5
   password: RenzheCloudSS
-- name: 🇨🇳CN-27.155.101.150-059 | 0.0MB
+- name: 🇨🇳CN-14.29.245.243-059 | 0.0MB
   server: bs3.jymzffbquawl.com
   port: 6600
   type: ss
@@ -95,7 +95,7 @@ proxies:
   type: ss
   cipher: rc4-md5
   password: RenzheCloudSS
-- name: 🇨🇳CN-27.155.101.150-064 | 0.0MB
+- name: 🇨🇳CN-14.29.245.243-064 | 0.0MB
   server: bs3.jymzffbquawl.com
   port: 6602
   type: ss
@@ -107,163 +107,163 @@ proxies:
   type: ss
   cipher: rc4-md5
   password: RenzheCloudSS
-- name: 🇨🇳CN-111.6.86.119-081 | 0.0MB
+- name: 🇨🇳CN-111.6.86.119-078 | 0.0MB
   server: 111.6.86.119
   port: 1154
   type: ss
   cipher: rc4-md5
   password: Paofu
-- name: 🇨🇳CN-111.6.86.80-082 | 0.0MB
+- name: 🇨🇳CN-111.6.86.80-079 | 0.0MB
   server: 111.6.86.80
   port: 1157
   type: ss
   cipher: rc4-md5
   password: Paofu
-- name: 🇨🇳CN-111.6.86.119-083 | 0.0MB
+- name: 🇨🇳CN-111.6.86.119-080 | 0.0MB
   server: 111.6.86.119
   port: 1173
   type: ss
   cipher: rc4-md5
   password: Paofu
-- name: 🇨🇳CN-111.6.86.119-084 | 0.0MB
+- name: 🇨🇳CN-111.6.86.119-081 | 0.0MB
   server: 111.6.86.119
   port: 1150
   type: ss
   cipher: rc4-md5
   password: Paofu
-- name: 🇨🇳CN-111.6.86.119-085 | 0.0MB
+- name: 🇨🇳CN-111.6.86.119-082 | 0.0MB
   server: 111.6.86.119
   port: 1172
   type: ss
   cipher: rc4-md5
   password: Paofu
-- name: 🇨🇳CN-111.6.86.80-086 | 0.0MB
+- name: 🇨🇳CN-111.6.86.80-083 | 0.0MB
   server: 111.6.86.80
   port: 1158
   type: ss
   cipher: rc4-md5
   password: Paofu
-- name: 🇨🇳CN-120.195.181.155-087 | 0.0MB
+- name: 🇨🇳CN-120.195.181.155-084 | 0.0MB
   server: 120.195.181.155
   port: 5985
   type: ss
   cipher: rc4-md5
   password: Paofu
-- name: 🇨🇳CN-120.195.181.82-088 | 0.0MB
+- name: 🇨🇳CN-120.195.181.82-085 | 0.0MB
   server: 120.195.181.82
   port: 5985
   type: ss
   cipher: rc4-md5
   password: Paofu
-- name: 🇨🇳CN-120.195.181.155-089 | 0.0MB
+- name: 🇨🇳CN-120.195.181.155-086 | 0.0MB
   server: 120.195.181.155
   port: 5984
   type: ss
   cipher: rc4-md5
   password: Paofu
-- name: 🇨🇳CN-120.195.181.82-090 | 0.0MB
+- name: 🇨🇳CN-120.195.181.82-087 | 0.0MB
   server: 120.195.181.82
   port: 5980
   type: ss
   cipher: rc4-md5
   password: Paofu
-- name: 🇨🇳CN-120.195.181.111-091 | 0.0MB
+- name: 🇨🇳CN-120.195.181.111-088 | 0.0MB
   server: 120.195.181.111
   port: 5981
   type: ss
   cipher: rc4-md5
   password: Paofu
-- name: 🇨🇳CN-120.195.181.155-092 | 0.0MB
+- name: 🇨🇳CN-120.195.181.155-089 | 0.0MB
   server: 120.195.181.155
   port: 5982
   type: ss
   cipher: rc4-md5
   password: Paofu
-- name: 🇨🇳CN-120.195.181.170-093 | 0.0MB
+- name: 🇨🇳CN-120.195.181.170-090 | 0.0MB
   server: 120.195.181.170
   port: 5987
   type: ss
   cipher: rc4-md5
   password: Paofu
-- name: 🇨🇳CN-111.6.86.80-094 | 0.0MB
+- name: 🇨🇳CN-111.6.86.80-091 | 0.0MB
   server: 111.6.86.80
   port: 1185
   type: ss
   cipher: rc4-md5
   password: Paofu
-- name: 🇨🇳CN-111.6.86.119-095 | 0.0MB
+- name: 🇨🇳CN-111.6.86.119-092 | 0.0MB
   server: 111.6.86.119
   port: 1171
   type: ss
   cipher: rc4-md5
   password: Paofu
-- name: 🇨🇳CN-120.195.181.82-096 | 0.0MB
+- name: 🇨🇳CN-120.195.181.82-093 | 0.0MB
   server: 120.195.181.82
   port: 5988
   type: ss
   cipher: rc4-md5
   password: Paofu
-- name: 🇨🇳CN-120.195.181.155-097 | 0.0MB
+- name: 🇨🇳CN-120.195.181.155-094 | 0.0MB
   server: 120.195.181.155
   port: 5987
   type: ss
   cipher: rc4-md5
   password: Paofu
-- name: 🇨🇳CN-120.195.181.111-098 | 0.0MB
+- name: 🇨🇳CN-120.195.181.111-095 | 0.0MB
   server: 120.195.181.111
   port: 5980
   type: ss
   cipher: rc4-md5
   password: Paofu
-- name: 🇨🇳CN-120.195.181.82-099 | 0.0MB
+- name: 🇨🇳CN-120.195.181.82-096 | 0.0MB
   server: 120.195.181.82
   port: 5983
   type: ss
   cipher: rc4-md5
   password: Paofu
-- name: 🇨🇳CN-120.195.181.155-100 | 0.0MB
+- name: 🇨🇳CN-120.195.181.155-097 | 0.0MB
   server: 120.195.181.155
   port: 5988
   type: ss
   cipher: rc4-md5
   password: Paofu
-- name: 🇨🇳CN-120.195.181.155-101 | 0.0MB
+- name: 🇨🇳CN-120.195.181.155-098 | 0.0MB
   server: 120.195.181.155
   port: 5980
   type: ss
   cipher: rc4-md5
   password: Paofu
-- name: 🇨🇳CN-120.195.181.170-102 | 0.0MB
+- name: 🇨🇳CN-120.195.181.170-099 | 0.0MB
   server: 120.195.181.170
   port: 5989
   type: ss
   cipher: rc4-md5
   password: Paofu
-- name: 🇨🇳CN-120.195.181.170-103 | 0.0MB
+- name: 🇨🇳CN-120.195.181.170-100 | 0.0MB
   server: 120.195.181.170
   port: 5981
   type: ss
   cipher: rc4-md5
   password: Paofu
-- name: 🇨🇳CN-120.195.181.170-104 | 0.0MB
+- name: 🇨🇳CN-120.195.181.170-101 | 0.0MB
   server: 120.195.181.170
   port: 5986
   type: ss
   cipher: rc4-md5
   password: Paofu
-- name: 🇨🇳CN-111.6.86.119-105 | 0.0MB
+- name: 🇨🇳CN-111.6.86.119-102 | 0.0MB
   server: 111.6.86.119
   port: 1190
   type: ss
   cipher: rc4-md5
   password: Paofu
-- name: 🇨🇳CN-111.6.86.119-106 | 0.0MB
+- name: 🇨🇳CN-111.6.86.119-103 | 0.0MB
   server: 111.6.86.119
   port: 1182
   type: ss
   cipher: rc4-md5
   password: Paofu
-- name: 🇨🇳CN-111.6.86.119-107 | 0.0MB
+- name: 🇨🇳CN-111.6.86.119-104 | 0.0MB
   server: 111.6.86.119
   port: 1192
   type: ss
@@ -329,11 +329,11 @@ proxy-groups:
   - 🇺🇸US-216.52.183.243-008 | 0.0MB
   - 🇨🇳CN-218.78.111.238-053 | 0.0MB
   - 🇨🇳CN-59.36.74.215-054 | 0.0MB
-  - 🇨🇳CN-124.225.66.240-055 | 0.0MB
+  - 🇨🇳CN-59.36.74.215-055 | 0.0MB
   - 🇨🇳CN-120.232.177.227-056 | 0.0MB
-  - 🇨🇳CN-27.155.101.150-057 | 0.0MB
+  - 🇨🇳CN-14.29.245.243-057 | 0.0MB
   - 🇨🇳CN-59.36.74.215-058 | 0.0MB
-  - 🇨🇳CN-27.155.101.150-059 | 0.0MB
+  - 🇨🇳CN-14.29.245.243-059 | 0.0MB
   - 🇨🇳CN-120.232.177.227-060 | 0.0MB
 - name: Tier 2 ⚡️
   type: url-test
@@ -344,46 +344,46 @@ proxy-groups:
   - 🇨🇳CN-27.155.101.150-061 | 0.0MB
   - 🇨🇳CN-124.225.66.240-062 | 0.0MB
   - 🇨🇳CN-59.36.74.215-063 | 0.0MB
-  - 🇨🇳CN-27.155.101.150-064 | 0.0MB
+  - 🇨🇳CN-14.29.245.243-064 | 0.0MB
   - 🇨🇳CN-27.155.101.150-065 | 0.0MB
+  - 🇨🇳CN-111.6.86.119-078 | 0.0MB
+  - 🇨🇳CN-111.6.86.80-079 | 0.0MB
+  - 🇨🇳CN-111.6.86.119-080 | 0.0MB
   - 🇨🇳CN-111.6.86.119-081 | 0.0MB
-  - 🇨🇳CN-111.6.86.80-082 | 0.0MB
-  - 🇨🇳CN-111.6.86.119-083 | 0.0MB
-  - 🇨🇳CN-111.6.86.119-084 | 0.0MB
-  - 🇨🇳CN-111.6.86.119-085 | 0.0MB
+  - 🇨🇳CN-111.6.86.119-082 | 0.0MB
 - name: Tier 3 💎
   type: url-test
   url: http://clients3.google.com/generate_204
   interval: 300
   tolerance: 100
   proxies:
-  - 🇨🇳CN-111.6.86.80-086 | 0.0MB
-  - 🇨🇳CN-120.195.181.155-087 | 0.0MB
-  - 🇨🇳CN-120.195.181.82-088 | 0.0MB
+  - 🇨🇳CN-111.6.86.80-083 | 0.0MB
+  - 🇨🇳CN-120.195.181.155-084 | 0.0MB
+  - 🇨🇳CN-120.195.181.82-085 | 0.0MB
+  - 🇨🇳CN-120.195.181.155-086 | 0.0MB
+  - 🇨🇳CN-120.195.181.82-087 | 0.0MB
+  - 🇨🇳CN-120.195.181.111-088 | 0.0MB
   - 🇨🇳CN-120.195.181.155-089 | 0.0MB
-  - 🇨🇳CN-120.195.181.82-090 | 0.0MB
-  - 🇨🇳CN-120.195.181.111-091 | 0.0MB
-  - 🇨🇳CN-120.195.181.155-092 | 0.0MB
-  - 🇨🇳CN-120.195.181.170-093 | 0.0MB
-  - 🇨🇳CN-111.6.86.80-094 | 0.0MB
-  - 🇨🇳CN-111.6.86.119-095 | 0.0MB
+  - 🇨🇳CN-120.195.181.170-090 | 0.0MB
+  - 🇨🇳CN-111.6.86.80-091 | 0.0MB
+  - 🇨🇳CN-111.6.86.119-092 | 0.0MB
 - name: Tier 4 🗿
   type: url-test
   url: http://clients3.google.com/generate_204
   interval: 300
   tolerance: 100
   proxies:
+  - 🇨🇳CN-120.195.181.82-093 | 0.0MB
+  - 🇨🇳CN-120.195.181.155-094 | 0.0MB
+  - 🇨🇳CN-120.195.181.111-095 | 0.0MB
   - 🇨🇳CN-120.195.181.82-096 | 0.0MB
   - 🇨🇳CN-120.195.181.155-097 | 0.0MB
-  - 🇨🇳CN-120.195.181.111-098 | 0.0MB
-  - 🇨🇳CN-120.195.181.82-099 | 0.0MB
-  - 🇨🇳CN-120.195.181.155-100 | 0.0MB
-  - 🇨🇳CN-120.195.181.155-101 | 0.0MB
-  - 🇨🇳CN-120.195.181.170-102 | 0.0MB
-  - 🇨🇳CN-120.195.181.170-103 | 0.0MB
-  - 🇨🇳CN-120.195.181.170-104 | 0.0MB
-  - 🇨🇳CN-111.6.86.119-105 | 0.0MB
-  - 🇨🇳CN-111.6.86.119-106 | 0.0MB
-  - 🇨🇳CN-111.6.86.119-107 | 0.0MB
+  - 🇨🇳CN-120.195.181.155-098 | 0.0MB
+  - 🇨🇳CN-120.195.181.170-099 | 0.0MB
+  - 🇨🇳CN-120.195.181.170-100 | 0.0MB
+  - 🇨🇳CN-120.195.181.170-101 | 0.0MB
+  - 🇨🇳CN-111.6.86.119-102 | 0.0MB
+  - 🇨🇳CN-111.6.86.119-103 | 0.0MB
+  - 🇨🇳CN-111.6.86.119-104 | 0.0MB
 rules:
 - MATCH,Global ©️
