@@ -417,19 +417,19 @@ merge nodes w/o dup: `73`
 
 
 ### node sources
-- [mahdibland/ShadowsocksAggregator](https://github.com/mahdibland/ShadowsocksAggregator), number of nodes: `200`
+- [mianfeifq/share](https://github.com/mianfeifq/share), number of nodes: `89`
 - [ermaozi/get_subscribe](https://github.com/ermaozi/get_subscribe), number of nodes: `20`
 - [Rokate/Proxy-Sub](https://github.com/Rokate/Proxy-Sub), number of nodes: `1`
 - [misersun/config003-002](https://github.com/misersun/config003), number of nodes: `133`
 - [clash.221207.xyz/pubclashyaml](https://clash.221207.xyz/pubclashyaml), number of nodes: `908`
-- [tbbatbb/Proxy](https://github.com/tbbatbb/Proxy), number of nodes: `459`
+- [tbbatbb/Proxy](https://github.com/tbbatbb/Proxy), number of nodes: `450`
 - [mfuu/v2ray](https://github.com/mfuu/v2ray), number of nodes: `100`
 - [xiyaowong/freeFQ](https://github.com/xiyaowong/freeFQ), number of nodes: `156`
 - [YasserDivaR/pr0xy](https://github.com/YasserDivaR/pr0xy), number of nodes: `621`
 - [mahdibland/get_v2](https://github.com/mahdibland/get_v2), number of nodes: `281`
 - [vveg26/get_proxy](https://github.com/vveg26/get_proxy), number of nodes: `629`
 - [adminaliang/v2ray](https://github.com/adminaliang/v2ray), number of nodes: `16`
-- [Lewis-1217/FreeNodes](https://github.com/Lewis-1217/FreeNodes), number of nodes: `7`
+- [Jia-Pingwa/free-v2ray-merge](https://github.com/Jia-Pingwa/free-v2ray-merge), number of nodes: `327`
 - [learnhard-cn/free_proxy_ss](https://github.com/learnhard-cn/free_proxy_ss), number of nodes: `100`
 - [hermanb001/ProxyTest](https://github.com/hermanb001/ProxyTest), number of nodes: `680`
 
