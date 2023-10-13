@@ -1,42 +1,42 @@
 proxies:
   - {name: 🇺🇸 US-216.52.183.243-005, server: 216.52.183.243, port: 1001, type: ss, cipher: aes-128-gcm, password: 83XvX4Vo%*3a}
-  - {name: 🇨🇳 CN-14.29.178.150-050, server: bs1.jymzffbquawl.com, port: 3607, type: ss, cipher: rc4-md5, password: RenzheCloudSS}
-  - {name: 🇨🇳 CN-59.36.74.215-051, server: pr3.jymzffbquawl.com, port: 6600, type: ss, cipher: rc4-md5, password: RenzheCloudSS}
+  - {name: 🇨🇳 CN-218.78.111.238-050, server: bs1.jymzffbquawl.com, port: 3607, type: ss, cipher: rc4-md5, password: RenzheCloudSS}
+  - {name: 🇨🇳 CN-124.225.66.240-051, server: pr3.jymzffbquawl.com, port: 6600, type: ss, cipher: rc4-md5, password: RenzheCloudSS}
   - {name: 🇨🇳 CN-124.225.66.240-052, server: pr3.jymzffbquawl.com, port: 6601, type: ss, cipher: rc4-md5, password: RenzheCloudSS}
   - {name: 🇨🇳 CN-120.232.177.227-053, server: pr1.jymzffbquawl.com, port: 3600, type: ss, cipher: rc4-md5, password: RenzheCloudSS}
-  - {name: 🇨🇳 CN-27.155.101.150-054, server: bs3.jymzffbquawl.com, port: 6603, type: ss, cipher: rc4-md5, password: RenzheCloudSS}
-  - {name: 🇨🇳 CN-124.225.66.240-055, server: pr3.jymzffbquawl.com, port: 3036, type: ss, cipher: rc4-md5, password: RenzheCloudSS}
+  - {name: 🇨🇳 CN-14.29.245.243-054, server: bs3.jymzffbquawl.com, port: 6603, type: ss, cipher: rc4-md5, password: RenzheCloudSS}
+  - {name: 🇨🇳 CN-59.36.74.215-055, server: pr3.jymzffbquawl.com, port: 3036, type: ss, cipher: rc4-md5, password: RenzheCloudSS}
   - {name: 🇨🇳 CN-14.29.245.243-056, server: bs3.jymzffbquawl.com, port: 6600, type: ss, cipher: rc4-md5, password: RenzheCloudSS}
   - {name: 🇨🇳 CN-120.232.177.227-057, server: pr1.jymzffbquawl.com, port: 3605, type: ss, cipher: rc4-md5, password: RenzheCloudSS}
-  - {name: 🇨🇳 CN-27.155.101.150-058, server: bs3.jymzffbquawl.com, port: 3046, type: ss, cipher: rc4-md5, password: RenzheCloudSS}
+  - {name: 🇨🇳 CN-14.29.245.243-058, server: bs3.jymzffbquawl.com, port: 3046, type: ss, cipher: rc4-md5, password: RenzheCloudSS}
   - {name: 🇨🇳 CN-59.36.74.215-059, server: pr3.jymzffbquawl.com, port: 5601, type: ss, cipher: rc4-md5, password: RenzheCloudSS}
   - {name: 🇨🇳 CN-59.36.74.215-060, server: pr3.jymzffbquawl.com, port: 5600, type: ss, cipher: rc4-md5, password: RenzheCloudSS}
-  - {name: 🇨🇳 CN-27.155.101.150-061, server: bs3.jymzffbquawl.com, port: 6602, type: ss, cipher: rc4-md5, password: RenzheCloudSS}
+  - {name: 🇨🇳 CN-14.29.245.243-061, server: bs3.jymzffbquawl.com, port: 6602, type: ss, cipher: rc4-md5, password: RenzheCloudSS}
   - {name: 🇨🇳 CN-14.29.245.243-062, server: bs3.jymzffbquawl.com, port: 6601, type: ss, cipher: rc4-md5, password: RenzheCloudSS}
-  - {name: 🇨🇳 CN-111.6.86.119-077, server: 111.6.86.119, port: 1154, type: ss, cipher: rc4-md5, password: Paofu}
-  - {name: 🇨🇳 CN-111.6.86.80-078, server: 111.6.86.80, port: 1157, type: ss, cipher: rc4-md5, password: Paofu}
-  - {name: 🇨🇳 CN-111.6.86.119-079, server: 111.6.86.119, port: 1173, type: ss, cipher: rc4-md5, password: Paofu}
-  - {name: 🇨🇳 CN-111.6.86.119-080, server: 111.6.86.119, port: 1150, type: ss, cipher: rc4-md5, password: Paofu}
-  - {name: 🇨🇳 CN-111.6.86.119-081, server: 111.6.86.119, port: 1172, type: ss, cipher: rc4-md5, password: Paofu}
-  - {name: 🇨🇳 CN-111.6.86.80-082, server: 111.6.86.80, port: 1158, type: ss, cipher: rc4-md5, password: Paofu}
-  - {name: 🇨🇳 CN-120.195.181.155-083, server: 120.195.181.155, port: 5985, type: ss, cipher: rc4-md5, password: Paofu}
-  - {name: 🇨🇳 CN-120.195.181.82-084, server: 120.195.181.82, port: 5985, type: ss, cipher: rc4-md5, password: Paofu}
-  - {name: 🇨🇳 CN-120.195.181.155-085, server: 120.195.181.155, port: 5984, type: ss, cipher: rc4-md5, password: Paofu}
-  - {name: 🇨🇳 CN-120.195.181.82-086, server: 120.195.181.82, port: 5980, type: ss, cipher: rc4-md5, password: Paofu}
-  - {name: 🇨🇳 CN-120.195.181.111-087, server: 120.195.181.111, port: 5981, type: ss, cipher: rc4-md5, password: Paofu}
-  - {name: 🇨🇳 CN-120.195.181.155-088, server: 120.195.181.155, port: 5982, type: ss, cipher: rc4-md5, password: Paofu}
-  - {name: 🇨🇳 CN-120.195.181.170-089, server: 120.195.181.170, port: 5987, type: ss, cipher: rc4-md5, password: Paofu}
-  - {name: 🇨🇳 CN-111.6.86.80-090, server: 111.6.86.80, port: 1185, type: ss, cipher: rc4-md5, password: Paofu}
-  - {name: 🇨🇳 CN-111.6.86.119-091, server: 111.6.86.119, port: 1171, type: ss, cipher: rc4-md5, password: Paofu}
-  - {name: 🇨🇳 CN-120.195.181.82-092, server: 120.195.181.82, port: 5988, type: ss, cipher: rc4-md5, password: Paofu}
-  - {name: 🇨🇳 CN-120.195.181.155-093, server: 120.195.181.155, port: 5987, type: ss, cipher: rc4-md5, password: Paofu}
-  - {name: 🇨🇳 CN-120.195.181.111-094, server: 120.195.181.111, port: 5980, type: ss, cipher: rc4-md5, password: Paofu}
-  - {name: 🇨🇳 CN-120.195.181.82-095, server: 120.195.181.82, port: 5983, type: ss, cipher: rc4-md5, password: Paofu}
-  - {name: 🇨🇳 CN-120.195.181.155-096, server: 120.195.181.155, port: 5988, type: ss, cipher: rc4-md5, password: Paofu}
-  - {name: 🇨🇳 CN-120.195.181.155-097, server: 120.195.181.155, port: 5980, type: ss, cipher: rc4-md5, password: Paofu}
-  - {name: 🇨🇳 CN-120.195.181.170-098, server: 120.195.181.170, port: 5989, type: ss, cipher: rc4-md5, password: Paofu}
-  - {name: 🇨🇳 CN-120.195.181.170-099, server: 120.195.181.170, port: 5981, type: ss, cipher: rc4-md5, password: Paofu}
-  - {name: 🇨🇳 CN-120.195.181.170-100, server: 120.195.181.170, port: 5986, type: ss, cipher: rc4-md5, password: Paofu}
-  - {name: 🇨🇳 CN-111.6.86.119-101, server: 111.6.86.119, port: 1190, type: ss, cipher: rc4-md5, password: Paofu}
-  - {name: 🇨🇳 CN-111.6.86.119-102, server: 111.6.86.119, port: 1182, type: ss, cipher: rc4-md5, password: Paofu}
-  - {name: 🇨🇳 CN-111.6.86.119-103, server: 111.6.86.119, port: 1192, type: ss, cipher: rc4-md5, password: Paofu}
+  - {name: 🇨🇳 CN-111.6.86.119-074, server: 111.6.86.119, port: 1154, type: ss, cipher: rc4-md5, password: Paofu}
+  - {name: 🇨🇳 CN-111.6.86.80-075, server: 111.6.86.80, port: 1157, type: ss, cipher: rc4-md5, password: Paofu}
+  - {name: 🇨🇳 CN-111.6.86.119-076, server: 111.6.86.119, port: 1173, type: ss, cipher: rc4-md5, password: Paofu}
+  - {name: 🇨🇳 CN-111.6.86.119-077, server: 111.6.86.119, port: 1150, type: ss, cipher: rc4-md5, password: Paofu}
+  - {name: 🇨🇳 CN-111.6.86.119-078, server: 111.6.86.119, port: 1172, type: ss, cipher: rc4-md5, password: Paofu}
+  - {name: 🇨🇳 CN-111.6.86.80-079, server: 111.6.86.80, port: 1158, type: ss, cipher: rc4-md5, password: Paofu}
+  - {name: 🇨🇳 CN-120.195.181.155-080, server: 120.195.181.155, port: 5985, type: ss, cipher: rc4-md5, password: Paofu}
+  - {name: 🇨🇳 CN-120.195.181.82-081, server: 120.195.181.82, port: 5985, type: ss, cipher: rc4-md5, password: Paofu}
+  - {name: 🇨🇳 CN-120.195.181.155-082, server: 120.195.181.155, port: 5984, type: ss, cipher: rc4-md5, password: Paofu}
+  - {name: 🇨🇳 CN-120.195.181.82-083, server: 120.195.181.82, port: 5980, type: ss, cipher: rc4-md5, password: Paofu}
+  - {name: 🇨🇳 CN-120.195.181.111-084, server: 120.195.181.111, port: 5981, type: ss, cipher: rc4-md5, password: Paofu}
+  - {name: 🇨🇳 CN-120.195.181.155-085, server: 120.195.181.155, port: 5982, type: ss, cipher: rc4-md5, password: Paofu}
+  - {name: 🇨🇳 CN-120.195.181.170-086, server: 120.195.181.170, port: 5987, type: ss, cipher: rc4-md5, password: Paofu}
+  - {name: 🇨🇳 CN-111.6.86.80-087, server: 111.6.86.80, port: 1185, type: ss, cipher: rc4-md5, password: Paofu}
+  - {name: 🇨🇳 CN-111.6.86.119-088, server: 111.6.86.119, port: 1171, type: ss, cipher: rc4-md5, password: Paofu}
+  - {name: 🇨🇳 CN-120.195.181.82-089, server: 120.195.181.82, port: 5988, type: ss, cipher: rc4-md5, password: Paofu}
+  - {name: 🇨🇳 CN-120.195.181.155-090, server: 120.195.181.155, port: 5987, type: ss, cipher: rc4-md5, password: Paofu}
+  - {name: 🇨🇳 CN-120.195.181.111-091, server: 120.195.181.111, port: 5980, type: ss, cipher: rc4-md5, password: Paofu}
+  - {name: 🇨🇳 CN-120.195.181.82-092, server: 120.195.181.82, port: 5983, type: ss, cipher: rc4-md5, password: Paofu}
+  - {name: 🇨🇳 CN-120.195.181.155-093, server: 120.195.181.155, port: 5988, type: ss, cipher: rc4-md5, password: Paofu}
+  - {name: 🇨🇳 CN-120.195.181.155-094, server: 120.195.181.155, port: 5980, type: ss, cipher: rc4-md5, password: Paofu}
+  - {name: 🇨🇳 CN-120.195.181.170-095, server: 120.195.181.170, port: 5989, type: ss, cipher: rc4-md5, password: Paofu}
+  - {name: 🇨🇳 CN-120.195.181.170-096, server: 120.195.181.170, port: 5981, type: ss, cipher: rc4-md5, password: Paofu}
+  - {name: 🇨🇳 CN-120.195.181.170-097, server: 120.195.181.170, port: 5986, type: ss, cipher: rc4-md5, password: Paofu}
+  - {name: 🇨🇳 CN-111.6.86.119-098, server: 111.6.86.119, port: 1190, type: ss, cipher: rc4-md5, password: Paofu}
+  - {name: 🇨🇳 CN-111.6.86.119-099, server: 111.6.86.119, port: 1182, type: ss, cipher: rc4-md5, password: Paofu}
+  - {name: 🇨🇳 CN-111.6.86.119-100, server: 111.6.86.119, port: 1192, type: ss, cipher: rc4-md5, password: Paofu}
